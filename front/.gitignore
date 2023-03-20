@@ -1,0 +1,5 @@
+#ignorer le fichier .DS_Store
+*.DS_Store
+
+#ignorer le fichier .vscode
+*.vscode
