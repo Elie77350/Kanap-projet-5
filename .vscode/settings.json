@@ -1,0 +1,8 @@
+{
+	"editor.fontFamily": "JetBrainsMono-Light",
+	"editor.fontSize": 16,
+	"files.autoSave": "afterDelay",
+	"editor.tabSize": 2,
+	"editor.renderWhitespace": "trailing",
+	"editor.wordWrap": "on"
+}
