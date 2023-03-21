@@ -90,3 +90,4 @@ exports.orderProducts = (req, res, next) => {
     }
   );
 };
+console.log('Hello');
